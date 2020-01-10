@@ -1,6 +1,6 @@
 # TodoClone
 
-!(/screenshot.png?raw=true)
+![Screenshot](/screenshot.png?raw=true)
 
 I have attempted to replicate some of the functionality of Ultralist (https://ultralist.io), a command line todo manager.
 
