@@ -422,7 +422,7 @@ getToday = do
 
 usageMessage :: String
 usageMessage = "USAGE:" ++ "\n" 
-                ++ "todo add TASK_NAME [-d YYYY-MM-DD]" ++ "\n"
+                ++ "todo add TASK_NAME [due YYYY-MM-DD]" ++ "\n"
                 ++ "todo complete [TASKNUM]" ++ "\n"
                 ++ "todo delete [TASKNUM]" ++ "\n"
                 ++ "todo urgent [TASKNUM]" ++ "\n"
